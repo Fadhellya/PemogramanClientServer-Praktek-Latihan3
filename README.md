@@ -1,7 +1,7 @@
 # PemogramanClientServer-Praktek
 ## Langkah - Langkah Membuat Latihan 3
 ### Langkah 1 : 
-####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/)  kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device kemudian isi artifactnya dan lainnya kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean 
+####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/)  kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device (disini saya menggunakan jdk 17  kemudian isi artifactnya(saya menggunakan latihan3-service) kemudian spring bootversinya pakai yang versi 2.6.11(yang saya pakai) dan untuk grubnya isi dengan com.fadhel kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean 
 ### Langkah 2 :
 #### buat sebuah class dengan nama Greeting.java dibawah package com.fadhel.latihan3.service kemudian isi dengan code berikut :
 ```java
