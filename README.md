@@ -56,12 +56,8 @@ public class GreetingController {
 ```
 ### Langkah 5 :
 ##### setelah itu coba di buka link berikut [http://localhost:8012/greeting](http://localhost:8012/greeting)nanti akan muncul output seperti ini
-```java
-{"id":1,"content":"Hello, World!"}
-```
+![3](https://user-images.githubusercontent.com/113502315/192090890-2b47b9d9-4b2c-41c5-9359-1ab75b727d80.png)
 ### Langkah 6 :
 ##### setelah itu coba di buka link berikut [http://localhost:8012/greeting?name=User](http://localhost:8012/greeting?name=User) nanti akan muncul output seperti ini
-```java
-{"id":2,"content":"Hello, User!"}
-```
+![4](https://user-images.githubusercontent.com/113502315/192090911-584170f9-d8ab-4e05-be14-70ba04d5e47c.png)
 
